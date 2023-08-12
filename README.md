@@ -1,0 +1,2 @@
+# handgesture presentation
+ I developed a presentation controller using hand gestures as input. The system recognizes dynamic gestures through a webcam, tracks their movement, and simulates mouse control and left-click operations. This project improves PowerPoint presentations by providing a more interactive and intuitive control method, eliminating the need for additional hardware or keyboard commands.
